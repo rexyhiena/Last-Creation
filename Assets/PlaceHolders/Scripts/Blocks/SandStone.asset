@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1af4b50a67499a541a3ec561d82b391c, type: 3}
+  m_Name: SandStone
+  m_EditorClassIdentifier: Assembly-CSharp::BlockDefinition
+  blockName: SandStone
+  id: 28
+  useCustomModel: 0
+  customModel: {fileID: 0}
+  blockMaterial: {fileID: 2100000, guid: d5d29ca188494794fb2e3d7c394d1d0e, type: 2}
+  health: 6
+  canDrop: 0
+  canFlow: 0
+  isTransparent: 0
+  blocksLight: 0
+  generationType: 0
+  isMineralOre: 0
+  minSpawnHeight: 0
+  maxSpawnHeight: 64
+  spawnProbability: 0.01
+  veinSize: 3
+  onlyReplacesStone: 1
+  lodColor: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
