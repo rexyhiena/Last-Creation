@@ -40,4 +40,9 @@ Assets/*
 !Assets/*.meta
 
 # Mantener escenas si quieres
+<<<<<<< HEAD
 !Assets/*.unity
+=======
+!Assets/*.unity
+
+>>>>>>> a7ec07f575fbdf9e162103c5c03e811efa9cd5db
